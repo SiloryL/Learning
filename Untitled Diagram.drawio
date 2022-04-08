@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T14:45:57.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="I1N6T4ZE9LRQWne1FkOp" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T16:29:25.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KLtlkaGFY-dcCvXF4-q9" version="17.4.1" type="github">
   <diagram id="TmxC4N9Jw4EooDwFrd-t" name="Page-1">
     <mxGraphModel dx="1038" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,13 +34,13 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JC1gjb7Ws7_Rw_Vb5A0L-13" value="Courses" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="160" height="120" as="geometry" />
+          <mxGeometry x="590" y="210" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JC1gjb7Ws7_Rw_Vb5A0L-14" value="title (string)&#xa;price (float)&#xa;instructor (string)&#xa;tags (string)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JC1gjb7Ws7_Rw_Vb5A0L-13">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JC1gjb7Ws7_Rw_Vb5A0L-16" value="Enrollment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="160" height="120" as="geometry" />
+          <mxGeometry x="320" y="210" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JC1gjb7Ws7_Rw_Vb5A0L-17" value="date (dateTime)&#xa;price (float)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JC1gjb7Ws7_Rw_Vb5A0L-16">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -56,6 +56,12 @@
             <mxPoint x="420" y="410" as="sourcePoint" />
             <mxPoint x="520" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JC1gjb7Ws7_Rw_Vb5A0L-20" value="Conceptual Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JC1gjb7Ws7_Rw_Vb5A0L-21" value="Logical Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="170" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
